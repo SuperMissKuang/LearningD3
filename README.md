@@ -1,3 +1,4 @@
 # LearningD3
 
-Hi Nongnong is a berbergui!
+Hi I'm learning git!
+I'm making a new commit.
